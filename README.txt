@@ -1,3 +1,5 @@
+trustzone example: examples/mcupr.../LPC55S69-EVK
+
 mcuoneclipse
 ============
 
